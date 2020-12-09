@@ -1,0 +1,9 @@
+[user]
+	name = Edward Withers
+    email = dearshrewdwit@gmail.com
+[alias]
+	co = checkout
+	ci = commit
+	st = status
+	br = branch
+	hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
