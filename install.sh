@@ -22,3 +22,6 @@ brew install --cask alfred
 
 echo "Installing Slack..."
 brew install --cask slack
+
+echo "Installing mosh..."
+brew install mosh
